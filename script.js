@@ -9,6 +9,8 @@ async function loadCat() {
   
     } catch (error) {
       console.log("Erro:", error);
+      alert("Erro ao carregar imagem 😿. Tente novamente!");
+
     }
   }
   
