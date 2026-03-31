@@ -1,3 +1,5 @@
+## Melhorias
+- Projeto com integração de API
 # Random Cats 
 
 Aplicação web que consome uma API para exibir imagens aleatórias de gatos.
